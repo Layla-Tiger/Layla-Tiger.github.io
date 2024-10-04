@@ -2,7 +2,7 @@
     "name": "VacationTracker: Vacation Tracker App",
     "short_name": "VT",
     "description" : "Securely and confidently track your vacations. Enter the start and end dates. These will be saved to your browser only & won't be shared",
-    "start_url": "https://layla-tiger.github.io/",
+    "start_url": "https://www.layla-tiger.github.io/",
     "display": "standalone",
     "theme_color":"#eeffee",
     "background_color":"#eeffee",
